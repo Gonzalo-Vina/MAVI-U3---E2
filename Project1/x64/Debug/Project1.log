@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\User-PC\Desktop\Project1\Project1\main.cpp(24,30): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\User-PC\Desktop\Project1\Project1\main.cpp(24,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\User-PC\Desktop\Project1\Project1\main.cpp(25,30): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\User-PC\Desktop\Project1\Project1\main.cpp(25,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\User-PC\Desktop\Project1\Project1\main.cpp(42,55): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User-PC\Desktop\Project1\Project1\main.cpp(42,41): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User-PC\Desktop\Project1\Project1\main.cpp(46,55): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User-PC\Desktop\Project1\Project1\main.cpp(46,41): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User-PC\Desktop\Project1\Project1\main.cpp(52,55): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User-PC\Desktop\Project1\Project1\main.cpp(52,41): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User-PC\Desktop\Project1\Project1\main.cpp(56,55): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User-PC\Desktop\Project1\Project1\main.cpp(56,41): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Project1.vcxproj -> C:\Users\User-PC\Desktop\Project1\x64\Debug\Project1.exe
